@@ -1,0 +1,112 @@
+# Machine Learning Introduction
+
+## What is Machine Learning?
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Instead of writing fixed rules, we provide data to a machine learning model, which learns the relationships within the data and uses that knowledge to make predictions on new, unseen data.
+
+## Real-World Example
+
+Suppose you want to identify whether an email is spam.
+
+Traditional Programming:
+
+* Write rules manually (contains certain words, too many links, etc.)
+
+Machine Learning:
+
+* Provide thousands of labeled emails (Spam / Not Spam).
+* The model automatically learns the patterns.
+* It predicts whether future emails are spam.
+
+## Why Machine Learning?
+
+Machine Learning helps solve problems where creating explicit rules is difficult or impossible.
+
+Examples include:
+
+* Email spam detection
+* Face recognition
+* Recommendation systems
+* Medical diagnosis
+* Fraud detection
+* Speech recognition
+* Self-driving vehicles
+* Chatbots and AI assistants
+
+## Types of Machine Learning
+
+### 1. Supervised Learning
+
+The model learns from labeled data (input and correct output are provided).
+
+Examples:
+
+* House price prediction
+* Student result prediction
+* Disease prediction
+
+### 2. Unsupervised Learning
+
+The model discovers hidden patterns from unlabeled data.
+
+Examples:
+
+* Customer segmentation
+* Market basket analysis
+* Clustering
+
+### 3. Reinforcement Learning
+
+The model learns by interacting with an environment and receiving rewards or penalties.
+
+Examples:
+
+* Robotics
+* Game playing
+* Autonomous driving
+
+## Machine Learning Workflow
+
+A typical machine learning pipeline consists of:
+
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Feature Engineering
+4. Model Selection
+5. Model Training
+6. Model Evaluation
+7. Model Deployment
+8. Monitoring and Improvement
+
+## Popular Machine Learning Libraries
+
+Python provides many powerful ML libraries, including:
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* XGBoost
+
+## Applications of Machine Learning
+
+Machine Learning is widely used in:
+
+* Healthcare
+* Finance
+* Banking
+* E-commerce
+* Manufacturing
+* Agriculture
+* Education
+* Cybersecurity
+* Natural Language Processing (NLP)
+* Computer Vision
+
+## Conclusion
+
+Machine Learning enables computers to learn from data and improve their performance over time. It is a core technology behind modern AI applications and is transforming industries by enabling intelligent decision-making and automation.
