@@ -11,4 +11,5 @@ dependencies = [
     "langchain-core>=1.5.2",
     "pymupdf>=1.28.0",
     "pypdf>=6.14.2",
+    "tqdm>=4.70.0",
 ]
