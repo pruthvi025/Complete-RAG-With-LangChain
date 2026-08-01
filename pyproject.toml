@@ -18,3 +18,13 @@ dependencies = [
     "sentence-transformers>=5.6.1",
     "tqdm>=4.70.0",
 ]
+
+[tool.pyrefly]
+python_interpreter = ".venv/Scripts/python.exe"
+source_directories = ["."]
+
+[tool.pyright]
+pythonPath = ".venv/Scripts/python.exe"
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.13"
